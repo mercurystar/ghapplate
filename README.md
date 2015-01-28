@@ -18,6 +18,10 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 Go to https://github.com/mercurystar/ghapplate, click 'fork' button to fork the template to your repository.
 
+## How to see ghapplate
+
+Go to http://mercurystar.github.io/ghapplate 
+
 ## Features
 
 Learn more from [webapplate document](https://github.com/webapplate/webapplate/wiki).
